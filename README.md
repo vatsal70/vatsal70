@@ -21,8 +21,6 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4285F4?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/WebScraping-F7DF1E?style=for-the-badge&logo=webscraping&logoColor=black)
