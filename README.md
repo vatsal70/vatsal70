@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/Machine_Learning-0769AD?style=for-the-badge&logo=machine_learning&logoColor=white)
 ![](https://img.shields.io/badge/Java-0769AD?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/C_LANGUAGE-1572B6?style=for-the-badge&logo=c_language&logoColor=white)
+![](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=aws&logoColor=61DAFB)
 
 
 
