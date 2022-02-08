@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋 </h2>
-<p align="center"> I'm Shivlal, a self-motivated final year CS student, DevOps enthusiast, Project trainee and a Community guy who loves to interact with community people.</p>
+<p align="center"> I'm Vatsal Vohera, a self-motivated final year CS student, AI/ML/Data Science/DevOps enthusiast, Software Engineer trainee and a Community guy who loves to interact with community people.</p>
 <h4 align="center">
-💻 Project trainee <a href="https:/www.wipro.com/">@Wipro</a> | 💬 connect <a href="https://twitter.com/Shivlal01596340">@ShivlalSharma</a>
+💻 Project trainee <a href="https://www.ascendum.com/">@Ascendum Solutions</a> | 💬 connect <a href="https://twitter.com/vatsalvohera70?t=MavVncrJ_P9NGi9ktEKMog&s=08">@vatsalvohera70</a>
 </h4>
 
 
@@ -22,5 +22,5 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sshiv5768&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shivlal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshiv5768&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal70&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vatsal's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsal70&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
