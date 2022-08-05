@@ -1,7 +1,7 @@
 <h2 align="center"> Hi there 👋 </h2>
 <p align="center"> I'm Vatsal Vohera, a self-motivated final year CS student, AI/ML/Data Science/DevOps enthusiast, Software Engineer trainee and a Community guy who loves to interact with community people.</p>
 <h4 align="center">
-💻 Software Engineer trainee <a href="https://www.ascendum.com/">@Ascendum Solutions</a> | 💬 connect <a href="https://twitter.com/vatsalvohera70?t=MavVncrJ_P9NGi9ktEKMog&s=08">@vatsalvohera70</a>
+💻 Software Engineer <a href="https://www.ascendum.com/">@Ascendum Solutions</a> | 💬 connect <a href="https://twitter.com/vatsalvohera70?t=MavVncrJ_P9NGi9ktEKMog&s=08">@vatsalvohera70</a>
 </h4>
 
 
